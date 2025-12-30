@@ -1,2 +1,2 @@
 # Automata-Theory-Compiler-Construction
-These are the assignments/projects done in my (undergraduate) Automata Theory and Compiler Construction class
+These are the assignments/projects done in my (undergraduate) Automata Theory and Compiler Construction class. The class had a course project where a parser for the PC-0 Langaugae was made, more details of that project are [here](https://github.com/LucasHasting/PC-0-Parser).
